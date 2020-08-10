@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LuizDoPc/luizdopc.github.io/blob/master/src/assets/header.png" width="100%"alt="Luiz Soares" usemap="#mymap"/>
-  
-  <map name="mymap">
-    <area shape="rect" coords="1110,763,1190,843" alt="Luiz's Instagram" href="https://www.instagram.com/sarradaug" />
-    <area shape="rect" coords="1205,763,1285,843" alt="Luiz's Linkedin" href="https://linkedin.com/in/luizotaviosoares/" />
-  </map>
+  <img src="https://github.com/LuizDoPc/luizdopc.github.io/blob/master/src/assets/header.png" width="100%"alt="Luiz Soares"/>
 <br>
 </p>
 
@@ -13,6 +8,9 @@
 </h3>
 <p align="center">
   JavaScript | Node.js | ReactJS | React Native | CSS 
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/sarradaug">Instagram</a> | <a href="https://linkedin.com/in/luizotaviosoares/">Linkedin</a>
 </p>
 <h4 align="center">
   📌  Living in <b>Lavras</b>, <b>Minas Gerais</b>, <b>Brazil</b>  
