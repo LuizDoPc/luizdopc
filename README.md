@@ -16,4 +16,4 @@
   📌  Living in <b>Lavras</b>, <b>Minas Gerais</b>, <b>Brazil</b>  
 </h4>
 <h4 align="center">🤓 Knowlege is power!</h4>
-<h4 align="center">💼 React Native developer @ ioasys </h4>
+<h4 align="center">💼 React Native developer @ dti digital </h4>
